@@ -1,0 +1,4 @@
+*{
+  margin: 0px; 
+  /* we have a default margin always in the project. to avoid this we use margin 0px for all */
+}
